@@ -12,3 +12,5 @@ Game of Life includes the following features:
  * A special rainbow mode (pretty on medium boards!)
 # How to Run
 Download the repository. Open it in the IDE of your choice (ex. Eclipse). Run GameOfLife.java.
+# Demo
+https://youtu.be/exYlrTdqvuI
